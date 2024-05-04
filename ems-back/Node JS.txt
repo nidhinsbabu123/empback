@@ -1,0 +1,31 @@
+Node JS
+--------
+
+Runtime envmnt of javascript
+
+Features
+---------
+
+1) Extremely fast
+2) Accessing Asynchronous Functions
+3) Single threaded
+4) Highly scalable - can use large amount of requests
+5) Open source and free
+
+Parts
+------
+1) Debugger
+2) Modules
+3) Console
+4) Cluster
+5) Add-ons
+6) Buffer
+7) Callbacks
+8) Crypto
+9) Errorhandling
+10) Net
+11) Global
+12) Domain
+13) DNS
+14) Streaming
+
